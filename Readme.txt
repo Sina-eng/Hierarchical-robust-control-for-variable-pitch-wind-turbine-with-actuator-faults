@@ -1,0 +1,1 @@
+The initial conditions for the pitch angels in both the simulink and the "ElastoDyn" are zero.
